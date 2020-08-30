@@ -5,6 +5,9 @@ with the ParrotOS prompt (since it is more attractive) and with math commands. T
 contains all the function definitions of the formulae, you can add your own functions to that file and the "theMathShell.py" 
 contains the main function.
 
+#### Password to access theMathShell: 
+###### basicMathisvitalforProgramming
+
 ---
 
 ###  Screenshots:
