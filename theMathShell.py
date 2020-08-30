@@ -136,7 +136,7 @@ def main():
 		
 while True:
 	try:
-		password = input("[math] password for math-user: ")
+		password = getpass.getpass("[math] password for math-user: ")
 	except KeyboardInterrupt:
 		print()
 		exit()
