@@ -6,7 +6,7 @@ contains all the function definitions of the formulae, you can add your own func
 contains the main function.
 
 #### Password to access theMathShell: 
-###### basicMathisvitalforProgramming
+basicMathisvitalforProgramming
 
 ---
 
