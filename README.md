@@ -7,18 +7,16 @@ contains the main function.
 
 ---
 
-## Demo:
-
-   ![unnamed](https://github.com/root-user744/theMathShell/blob/master/demo.gif)
-
----
-
 ###  Screenshots:
 #### On LINUX:
-![Screenshot1](https://github.com/root-user744/theMathShell/blob/master/math.png)
+![Screenshot1](https://github.com/root-user744/theMathShell/blob/master/Screenshots/math4.png)
+
+![Screenshot2](https://github.com/root-user744/theMathShell/blob/master/Screenshots/math1.png)
+
+![Screenshot3](https://github.com/root-user744/theMathShell/blob/master/Screenshots/math5.png)
 
 #### On Windows:
-![Screenshot2](https://github.com/root-user744/theMathShell/blob/master/math2.PNG)
+![Screenshot4](https://github.com/root-user744/theMathShell/blob/master/Screenshots/math2.PNG)
 
 ---
 
@@ -61,11 +59,11 @@ contains the main function.
  
  This is the bug:
  
-  ![Screenshot3](https://github.com/root-user744/theMathShell/blob/master/math3.PNG)
+  ![Screenshot5](https://github.com/root-user744/theMathShell/blob/master/Screenshots/math3.PNG)
  
  After passing the command "clear":
  
-  ![Screenshot2](https://github.com/root-user744/theMathShell/blob/master/math2.PNG)
+  ![Screenshot4](https://github.com/root-user744/theMathShell/blob/master/Screenshots/math2.PNG)
  
  > __Hope you liked my program,<br>
  Thank You.__
